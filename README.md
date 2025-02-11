@@ -1,6 +1,6 @@
 # Fokus - Stay Focused & Block Distractions
 
-Fokus is a simple yet effective Chrome extension that helps you stay productive by blocking distracting websites. Whether you're studying, working, or just trying to limit your screen time, Fokus keeps you on track.
+Fokus is an effective Chrome extension that helps you stay productive by blocking distracting websites. Whether you're studying, working, or just trying to limit your screen time, Fokus keeps you on track.
 
 ## ✨ Features  
 - **Block any website** and redirect to a focus-friendly page  
